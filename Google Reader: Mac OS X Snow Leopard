@@ -1,6 +1,7 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 
-@-moz-document url-prefix("http://www.google.com/reader/view/"),url-prefix("https://www.google.com/reader/view/") {
+@-moz-document url-prefix("http://www.google.com/reader/view/"),url-prefix("https://www.google.com/reader/view/"),url-prefix("http://www.google.ru/reader/view/"),url-prefix("https://www.google.ru/reader/view/") {
+
 
 /* FIX the tag select pop up */
 .banner {overflow: hidden !important;}
