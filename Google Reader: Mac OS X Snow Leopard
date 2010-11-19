@@ -910,7 +910,7 @@ border:none !important;
 
 
 /*---- FOOTER ----*/
-#viewer-container{border-bottom: 1px solid #999 !important;}
+#viewer-container{border-bottom: 1px solid #999 !important;background: rgba(220, 240, 220, 0.95) !important;}
 #viewer-footer {
 /*height: 29px !important;*/
 background: transparent
@@ -919,6 +919,10 @@ repeat-x !important;
 padding: 3px 6px 4px !important;
 border-top: 1px solid #383f4c !important;
 font-size: 11px !important;}
+
+.card-common{background: rgba(220, 240, 220, 0.95) !important;}
+#no-entries-msg{background: rgba(220, 240, 220, 0.95) !important;}
+#entries .entry {background-color: rgba(220, 240, 220, 0.95) !important;}
 
 #entries-up .goog-button-base-content, #entries-up .goog-button-base-content {color: #000 !important}
 
