@@ -830,7 +830,7 @@ border:none !important;
 
 
 /*---- FOOTER ----*/
-#viewer-container{border-bottom: 1px solid #999 !important;background-color: rgba(220, 240, 220, 0.95) !important;}
+#viewer-container{border-bottom: 1px solid #999 !important;background: rgba(220, 240, 220, 0.95) !important;}
 #viewer-footer {
 /*height: 29px !important;*/
 background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAeCAYAAADtlXTHAAAAfElEQVQImS3EbQ+BUACG4ftv2ijazno9OpKVSSTMSyt+8eOL68PFzFRiHh3EImyEFzbCi4/Ci9t/ftIKPz2LZXoSK9uJwF5EYDth1r0weS+Mu4rQ3UVU3ERSPES6fYqsfIls9xZ2N4isGkRej8LtJ+HqUeTNJMr2KzbtRz8kOUaQ9kihAwAAAABJRU5ErkJggg==) repeat-x !important;
@@ -838,9 +838,9 @@ padding: 3px 6px 4px !important;
 border-top: 1px solid #383f4c !important;
 font-size: 11px !important;}
 
-.card-common{background-color: rgba(220, 240, 220, 0.95) !important;}
-#no-entries-msg{background-color: rgba(220, 240, 220, 0.95) !important;}
-.entry-likers-n{background-color: rgba(220, 240, 220, 0.95) !important;}
+.card-common{background: rgba(220, 240, 220, 0.95) !important;}
+#no-entries-msg{background: rgba(220, 240, 220, 0.95) !important;}
+.entry-likers-n{background: rgba(220, 240, 220, 0.95) !important;}
 #entries .entry {background-color: rgba(220, 240, 220, 0.95) !important;}
 
 #entries-up .goog-button-base-content, #entries-up .goog-button-base-content {color: #000 !important}
