@@ -6,7 +6,7 @@
 .banner {overflow: hidden !important;}
 
 /*---- HIDE ----*/
-#logo-container, #gbar
+#logo-container, #gbar, #top-bar
 {display:none !important;}
 .gbh {border-top: 0px !important;}
 
